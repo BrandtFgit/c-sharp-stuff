@@ -1,0 +1,15 @@
+/workspaces/c-sharp-stuff/bin/Debug/net7.0/c-sharp-stuff
+/workspaces/c-sharp-stuff/bin/Debug/net7.0/c-sharp-stuff.deps.json
+/workspaces/c-sharp-stuff/bin/Debug/net7.0/c-sharp-stuff.runtimeconfig.json
+/workspaces/c-sharp-stuff/bin/Debug/net7.0/c-sharp-stuff.dll
+/workspaces/c-sharp-stuff/bin/Debug/net7.0/c-sharp-stuff.pdb
+/workspaces/c-sharp-stuff/obj/Debug/net7.0/c-sharp-stuff.csproj.AssemblyReference.cache
+/workspaces/c-sharp-stuff/obj/Debug/net7.0/c-sharp-stuff.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/c-sharp-stuff/obj/Debug/net7.0/c-sharp-stuff.AssemblyInfoInputs.cache
+/workspaces/c-sharp-stuff/obj/Debug/net7.0/c-sharp-stuff.AssemblyInfo.cs
+/workspaces/c-sharp-stuff/obj/Debug/net7.0/c-sharp-stuff.csproj.CoreCompileInputs.cache
+/workspaces/c-sharp-stuff/obj/Debug/net7.0/c-sharp-stuff.dll
+/workspaces/c-sharp-stuff/obj/Debug/net7.0/refint/c-sharp-stuff.dll
+/workspaces/c-sharp-stuff/obj/Debug/net7.0/c-sharp-stuff.pdb
+/workspaces/c-sharp-stuff/obj/Debug/net7.0/c-sharp-stuff.genruntimeconfig.cache
+/workspaces/c-sharp-stuff/obj/Debug/net7.0/ref/c-sharp-stuff.dll
